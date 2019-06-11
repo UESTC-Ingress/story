@@ -8,7 +8,7 @@ cache:
 notifications:
   email:
     recipients:
-      - story@nia.ac.cn # 设置通知邮件
+      - story@nia.ac.cn
     on_success: change
     on_failure: always
 
