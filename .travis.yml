@@ -28,6 +28,7 @@ branches:
 
 deploy:  
   provider: pages  
+  fqdn: story.nia.ac.cn
   skip-cleanup: true  
   github-token: $TOKEN
   local-dir: ./_book/ 
