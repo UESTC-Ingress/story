@@ -13,6 +13,16 @@ description: Niantic Project China Stories
 
 欢迎来到Niantic Project China Stories，本站旨在记录关于NIA-CN的各类正史、野史、设定、小作品、~~同人~~。
 
+## 投稿方法
+
+### 会使用Git的探员
+
+请直接Clone[本GitHub项目](https://github.com/UESTC-Ingress/story)，对内容进行修改后提交Merge请求。
+
+### 不会使用Git的探员
+
+请直接发送内容至[story@nia.ac.cn](mailto:story@nia.ac.cn)。
+
 ## 施工计划
 
-请参考“施工”专区。
+请参考“[施工](construct/construct.md)”专区。

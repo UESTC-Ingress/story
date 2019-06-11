@@ -14,7 +14,9 @@
 
 * [实体设定](setting/entity.md)
 
-  * [组织：Niantic Project China](setting/entity/NIACN.md)
+  * [Niantic Project China](setting/entity/NIACN.md)
+
+  * [XM](setting/entity/XM.md)
 
 * [事件设定](setting/event.md)
 

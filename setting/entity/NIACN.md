@@ -38,7 +38,7 @@ description: 实体设定：Niantic Project China
 
 ### 与Niantic.Inc
 
-由于组织成员使用了[Niantic.Inc](/setting/entity/NianticInc.md)研发的侦测器技术，针对专利权和命名权上存在着争议。在2019年涉及国际贸易纠纷的背景下，NIA CN发表过[一则公告](/setting/entity/NIACN-2019-01.md)，以澄清与NianticInc的关系。
+由于组织成员使用了[Niantic.Inc](/setting/entity/NianticInc.md)研发的侦测器技术，针对专利权和命名权上存在着争议。在2019年涉及国际贸易纠纷的背景下，NIA CN发表过一则公告[^1]，以澄清与Niantic.Inc的关系。
 
 ### 与Niantic Project
 
@@ -59,3 +59,7 @@ description: 实体设定：Niantic Project China
 ### 2006-2016
 
 ### 2016-现在
+
+## 参考
+
+[^1]: [关于本机构前台被美国纳入出口管制名单的说明](https://t.me/UESTC_Ingress/186) Telegram频道，2019-5-26
