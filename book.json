@@ -1,0 +1,49 @@
+{
+    "title": "NIA-CN Stories",
+    "author": "Niantic Project",
+    "language": "zh-hans",
+    "plugins": [ 
+        "github",
+	"tbfed-pagefooter",
+        "rss",
+        "alerts",
+	"expandable-chapters-small",
+	"sitemap-general",
+	"anchors",
+	"edit-link"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/UESTC-Ingress/story"
+        },
+	"edit-link": {
+            "base": "https://github.com/UESTC-Ingress/story/edit/master",
+            "label": "参与编辑"
+        },
+    	"tbfed-pagefooter": {
+            "copyright":"Copyright &copy Niantic Project China 2019",
+            "modify_label": "内容修改时间：",
+            "modify_format": "YYYY-MM-DD HH:mm"
+        },
+	"sitemap-general": {
+            "prefix": "https://story.nia.ac.cn"
+	},
+	"rss": {
+            "title": "Niantic China Stories",
+            "description": "欢迎来到Niantic Project China Stories，本站旨在记录关于NIA-CN的各类正史、野史、设定、衍生作品",
+            "author": "Niantic Project",
+            "feed_url": "https://story.nia.ac.cn/rss",
+            "site_url": "https://story.nia.ac.cn/",
+            "managingEditor": "story@nia.ac.cn",
+            "webMaster": "admin@nia.ac.cn",
+            "categories": [
+                "Niantic Project China"
+            ]
+        }
+    },
+    "links" : {
+        "sidebar" : {
+            "计划首页" : "https://nia.ac.cn"
+        }
+    }
+}
