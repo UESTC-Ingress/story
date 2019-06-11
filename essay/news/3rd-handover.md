@@ -4,8 +4,8 @@ description: 第三次计划负责人换届交接如期进行。
 
 # 第三次计划负责人换届交接如期进行
 
-尼安提克中央通讯社  2019-6-11  
-文：[@CharleYang](/setting/person/CharleYang) [@Peterjin0703](/setting/person/Peterjin0703)
+[尼安提克中央通讯社](/setting/entity/NIACNA.md)  2019-6-11  
+文：[@CharleYang](/setting/person/CharleYang.md) [@Peterjin0703](/setting/person/Peterjin0703.md)
 
 ## 背景
 
