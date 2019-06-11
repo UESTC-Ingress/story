@@ -10,6 +10,9 @@ notifications:
     on_success: change
     on_failure: always
 
+before_install:
+  - export TZ='Asia/Shanghai'
+
 install:
   - npm install -g gitbook-cli
   - gitbook install
@@ -17,18 +20,16 @@ install:
 script:
   - gitbook build
 
-after_script:
-  - cd _book
-  - git init
-  - git remote add origin https://${REF}
-  - git add .
-  - git commit -m "Updad By Travis-CI With Build $TRAVIS_BUILD_NUMBER For Github Pages"
-  - git push --force --quiet "https://${TOKEN}@${REF}" mastteer:gh-pages
-
 branches:
   only:
     - master
 
-env:
-  global:
-    - REF=github.com/UESTC-Ingress/story.git
+deploy:  
+  provider: pages  
+  skip-cleanup: true  
+  github-token: $TOKEN
+  local-dir: ./_book/ 
+  target-branch: gh-pages  
+  verbose: true  
+  on:    
+    branch: master
