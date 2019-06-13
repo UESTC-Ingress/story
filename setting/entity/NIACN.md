@@ -38,7 +38,7 @@ description: 实体设定：Niantic Project China
 
 ## 与Niantic的关系
 
-由于存在多个与Niantic名称重复的机构，该组织时常在一些场合引起了误会。
+由于存在多个与Niantic名称重复的机构，该组织时常在一些场合引起误会。
 
 ### 与Niantic.Inc
 
