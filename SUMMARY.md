@@ -20,6 +20,8 @@
 
   * [@Peterjin0703](setting/person/Peterjin0703.md)
 
+  * [@CharleYang](setting/person/CharleYang.md)
+
 * [实体设定](setting/entity.md)
 
   * [Niantic Project China](setting/entity/NIACN.md)
