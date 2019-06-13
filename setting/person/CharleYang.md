@@ -4,6 +4,10 @@ description: 人物设定：@CharleYang
 
 # CharleYang
 
+> **[info] 本篇文章内容需要完善**
+>
+> 本篇内容有坑待填，有灵感的读者可以考虑参与编辑。
+
 ## 基本信息
 
 - Codename: @CharleYang
