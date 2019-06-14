@@ -111,6 +111,6 @@ CharleYang的笔名众多，但很难分辨出是否是其本人，这些名字�
 ## 参考
 
 [^1]: Chauncy Yuan, [Unqualified XM-E superfluid ██ constraint in ███](), *Niantic Journal*, ██, ███  
-[^2]: 《涉密出版物归属申报法案》, NIA CN Archive, 19██
-[^3]: Carter Saunders, [XMP Burster: Safety and Usage](), *NIAWeaponSafetyReport*, ███
+[^2]: 《涉密出版物归属申报法案》, NIA CN Archive, 19██  
+[^3]: Carter Saunders, [XMP Burster: Safety and Usage](), *NIAWeaponSafetyReport*, ███  
 [^4]: 《不再参与告知书》, CharleYang, 2019
