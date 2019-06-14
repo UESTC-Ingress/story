@@ -28,7 +28,6 @@
      
       * [@ChalinJie](setting/person/ChalinJie.md)
 
-
 * [实体设定](setting/entity.md)
 
   * [Niantic Project China](setting/entity/NIACN.md)
