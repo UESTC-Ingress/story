@@ -18,13 +18,13 @@
 
 * [人物设定](setting/person.md)
   
-   * 计划负责人
+   * [计划负责人](setting/person.md)
    
      * [@CharleYang](setting/person/CharleYang.md)
     
      * [@Peterjin0703](setting/person/Peterjin0703.md)
      
-   *  探员
+   *  [探员](setting/person.md)
      
       * [@ChalinJie](setting/person/ChalinJie.md)
 
