@@ -26,7 +26,7 @@
      
    *  探员
      
-      * [@Chalinjie](setting/person/ChalinJie.md)
+      * [@ChalinJie](setting/person/ChalinJie.md)
 
 
 * [实体设定](setting/entity.md)
