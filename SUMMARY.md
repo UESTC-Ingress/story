@@ -17,10 +17,17 @@
 ## 设定
 
 * [人物设定](setting/person.md)
+  
+   * 计划负责人
+   
+     * [@CharleYang](setting/person/CharleYang.md)
+    
+     * [@Peterjin0703](setting/person/Peterjin0703.md)
+     
+   *  探员
+     
+      * [@Chalinjie](setting/person/ChalinJie.md)
 
-  * [@Peterjin0703](setting/person/Peterjin0703.md)
-
-  * [@CharleYang](setting/person/CharleYang.md)
 
 * [实体设定](setting/entity.md)
 
