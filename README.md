@@ -10,7 +10,7 @@ description: Niantic Project China Stories
 >
 > 本站部分内容涉及到的人、物、事纯属虚构，欢迎发挥自己的想象力。  
 
-> 关于本站转MediaWiki的计划，请有维护经验的探员提供可行性建议。
+> 计划筹建Niantic Project CN Wiki，请有维护与写作经验的探员[提供可行性建议](mailto:wikiadmin@nia.ac.cn)。
 
 # ⚠警告⚠
 
