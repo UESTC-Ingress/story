@@ -18,7 +18,7 @@ description: 人物设定：@PeterJin0703
 
 - 活动范围： [U.E.S.T.C.](/setting/entity/UESTC-Org.md)机构范围区（工作日）/所有能到达的地方（休息日）
 
-- 特点： （条件适合下）肝、（条件不适合下）宅、~~代码中级高手~~、挖坑狂魔、脑洞巨大、~~老人日常作息~~
+- 特点：（条件适合下）肝、（条件不适合下）宅、~~代码中级高手~~、挖坑狂魔、脑洞巨大、~~老人日常作息~~
 
 ## 生平
 
@@ -26,7 +26,7 @@ PeterJin0703（皮特金）是一名真实存在的Agent，目前为Niantic中�
 
 ### 初期工作
 
-公元历2017.██.██，PeterJin0703偶然在国内论坛知乎中发现了一篇文章[^1]从而了解到自身[敏感者](/setting/entity/Sensitive.md)的身份，后经过证实该文章为Niantic中国分部针对[敏感者](/setting/entity/Sensitive.md)定向发布。随即接触XM[侦测器](/setting/entity/Scanner.md)，并被AS13-██████████-01区域组织吸纳。在AS13-[数据删除]-01区域组织中，PeterJin0703在区域负责人@███████，@VIEN1997，@ValineZ，@Larry0521，@████████的带领下基本完成了敏感者训练。
+公元历2017.██.██，PeterJin0703偶然在国内论坛知乎中发现了一篇文章[^1]从而了解到自身[敏感者](/setting/entity/Sensitive.md)的身份，后经过证实该文章为Niantic中国分部针对[敏感者](/setting/entity/Sensitive.md)定向发布。随即接触XM[侦测器](/setting/entity/Scanner.md)，并被AS13-██████████-01区域组织吸纳。在AS13-[数据删除]-01区域组织中，PeterJin0703在区域负责人@███████，@VIEN1997，@ValineZ，@Larry0521，@████████的带领下基本完成了[敏感者](/setting/entity/Sensitive.md)训练。
 
 ### 调职
 
@@ -50,7 +50,11 @@ PeterJin0703曾在AS13-██████████-01区域任职多月，爱
 
 在技术方面，PeterJin0703亦有较高的研发热情，可苦于本机构前台组织在其他方面的工作量过于巨大，该探员还未研制出突破性的成果。其梦想是某一天成为像CharleYang一样的~~包括跨物种特性装束在内的~~多项技术中均精通的高级研究员。
 
-最近几个地球标准时间单位内，PeterJin0703成功获得了潜在的[能量聚集点](/setting/entity/Portal.md)的侦测权限，于是其十分热心于在[数据删除]地区建立Portal，理由是如此便能维持和[Niantic](/setting/entity/NianticProject.md)总部的联系而不致使个人每日辛苦工作的成果白费。
+最近几个地球标准时间单位内，PeterJin0703成功获得了潜在的[能量聚集点](/setting/entity/Portal.md)的申请权限，于是其十分热心于在[数据删除]地区建立Portal，理由是如此便能维持和[Niantic](/setting/entity/NianticProject.md)总部的联系而不致使个人每日辛苦工作的成果白费。
+
+## 轶事
+
+-在获得了潜在的[能量聚集点](/setting/entity/Portal.md)的申请权限后，于第一个申请周期内，PeterJin0703非常激动地将Niantic总部按配给的申请配额一次性全部用完，但最终一个Portal均未得到Niantic的通过，其本人感到气急败坏~~十分安轨~~并表示自己观察能量聚集点的水平“比那些审核请求的人不知道高到哪里去”然后发表了一番怒斥[^2]，在被其他探员进行科普之后立刻车软并表示要努力学习[能量塔审核标准](/setting/entity/Portal_Guideline.md)。
 
 ## 评价
 
