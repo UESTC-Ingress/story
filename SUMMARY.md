@@ -22,7 +22,7 @@
    
      * [@CharleYang](setting/person/CharleYang.md)
     
-     * [@Peterjin0703](setting/person/Peterjin0703.md)
+     * [@PeterJin0703](setting/person/Peterjin0703.md)
      
    *  [探员](setting/person.md)
      
