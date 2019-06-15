@@ -16,7 +16,7 @@ description: 人物设定：@PeterJin0703
 
 - 状态： 积极努力的适应机构的管理工作中
 
-- 活动范围： U.E.S.T.C.机构范围区（工作日）/所有能到达的地方（休息日）
+- 活动范围： [U.E.S.T.C.](/setting/entity/UESTC-Org.md)机构范围区（工作日）/所有能到达的地方（休息日）
 
 - 特点： （条件适合下）肝、（条件不适合下）宅、~~代码中级高手~~、挖坑狂魔、~~老人日常作息~~
 
@@ -30,7 +30,7 @@ PeterJin0703（皮特金）是一名真实存在的Agent，目前为Niantic中�
 
 ### 调职
 
-公元历2018.6.10，PeterJin0703向Niantic中国分部提出调入区域AS14-LIMA-██区工作的申请，经批准后加入[U.E.S.T.C.](/setting/entity/UESTC-Org.md)由 [@CharlesYang](/setting/person/CharleYang.md) 主持的小队继续进行工作。因其工作认真得到了小队中众多探员的肯定。在进行第二次计划负责人交接后的一段时期，得到第二次计划负责人 @mbkotori 的特别赏识。
+公元历2018.6.10，PeterJin0703向Niantic中国分部提出调入区域AS14-LIMA-██区工作的申请，经批准后加入[U.E.S.T.C.](/setting/entity/UESTC-Org.md)由 [@CharlesYang](/setting/person/CharleYang.md) 主持的小队继续进行工作。因其工作认真得到了小队中众多探员的肯定。在进行第二次计划负责人交接后的一段时期，得到第二次计划负责人 [@mbkotori](/setting/person/mbkotori.md) 的特别赏识。
 
 ### 当选第三次计划负责人
 
@@ -51,7 +51,7 @@ PeterJin0703曾在AS13-██████████-01区域任职多月，爱
 ## 评价
 
 > 由于这位探员工作态度认真，研究具有突破，我建议下一届的计划负责人就交给PeterJin0703了。不不不，我没有任何钦定的意思，这个负责人...也要按照奈安提克的基本办法...去产生...当然我们负责人的决定权也是很重要滴!  
-> —— 据传是前任负责人@mbkotori的评论  
+> —— 据传是前任负责人[@mbkotori](/setting/person/mbkotori.md)的评论  
 
 > 我看了一下他的XM███装置，非常强大，能够将XM物质以这种███自旋的方式去██████，令人大开眼界，我相信他在XM-████上的研究是非常成功的。  
 > —— Bradley Tristin，《尼安提克XM异常学评论》主编
