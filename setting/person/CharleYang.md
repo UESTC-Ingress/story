@@ -108,9 +108,12 @@ CharleYang的笔名众多，但很难分辨出是否是其本人，这些名字�
 
 ## 评价
 
+> 天呐，你们有见过这样也会，那样也会，~~甚至女装也会~~的NIA CN计划负责人吗？我见过！  
+> —— 第三代计划负责人[@PeterJin0703](/setting/person/Peterjin0703.md)的评论  
+
 ## 参考
 
 [^1]: Chauncy Yuan, [Unqualified XM-E superfluid ██ constraint in ███](), *Niantic Journal*, ██, ███  
 [^2]: 《涉密出版物归属申报法案》, NIA CN Archive, 19██  
-[^3]: Carter Saunders, [XMP Burster: Safety and Usage](), *NIAWeaponSafetyReport*, ███  
+[^3]: Carter Saunders, [XMP Burster: Safety and Usage](), *NIA Weapon Safety Report*, ███  
 [^4]: 《不再参与告知书》, CharleYang, 2019
