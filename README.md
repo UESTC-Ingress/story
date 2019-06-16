@@ -4,13 +4,14 @@ description: Niantic Project China Stories
 
 # Niantic Project China Stories
 
-欢迎来到Niantic Project China Stories，本站旨在记录关于NIA-CN的各类正史、野史、设定、小作品、~~同人~~、~~本子~~。
+欢迎来到Niantic Project China Stories，本站旨在记录关于NIA-CN的各类正史、野史、小作品、~~同人~~、~~本子~~。
 
 > **[warning] 本站内容拥有虚构成分**
 >
 > 本站部分内容涉及到的人、物、事纯属虚构，欢迎发挥自己的想象力。  
 
 > 计划筹建Niantic Project CN Wiki，请有维护与写作经验的探员[提供可行性建议](mailto:wikiadmin@nia.ac.cn)。
+> 以后的设定内容均搬迁至Niantic Project CN Wiki，长篇故事和新闻仍然在本站撰写。
 
 # ⚠警告⚠
 
