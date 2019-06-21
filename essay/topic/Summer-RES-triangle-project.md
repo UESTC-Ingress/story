@@ -20,7 +20,7 @@ description: 夏季大三角计划顺利实行
 
 ##探员感想
 
->  这样的活动在建立[控制场](/setting/entity/ControlField.md)的同时，既为探员们的几何能力和规划能力提供了一个施展的空间，也可以给大家一次亲近自然的机会，提供了另一种提升身体机能的方式。
+>  这样的活动在建立[控制场](/setting/entity/ControlField.md)的同时，既为探员们的几何能力和规划能力提供了一个施展的空间，也可以给大家一次亲近自然的机会，提供了另一种提升身体机能的方式。   
 >  ——计划提出者[Tarcadia](/setting/person/Tarcadia.md)如是说  
->  真是太excited了！我AP马上就要接近11了！
->  ——近日在努力提升自身行动等级并抑制不住兴奋的第三代计划负责人[PeterJin0703](/setting/person/Tarcadia.md)如是说
+>  真是太excited了！AP……又获得了……好棒！   
+>  ——近日在努力提升自身行动等级并抑制不住兴奋~~而显得比较奇怪的~~的第三代计划负责人[PeterJin0703](/setting/person/Tarcadia.md)如是说
