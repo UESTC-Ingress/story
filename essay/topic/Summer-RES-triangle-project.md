@@ -28,5 +28,5 @@ description: 夏季大三角计划顺利实行
 >  ——行动提出者[Tarcadia](/setting/person/Tarcadia.md)如是说  
 >  真是太excited了！AP……又获得了……要升级了……好棒！   
 >  ——近日在努力提升自身行动等级并抑制不住兴奋~~而显得比较奇怪的~~的第三代计划负责人[PeterJin0703](/setting/person/Tarcadia.md)如是说  
->  XM异常！一定是XM异常！
+>  XM异常！一定是XM异常！   
 >  ——进行天气观测并分析后的[CharleYang](/setting/person/CharleYang.md)反复如是说
