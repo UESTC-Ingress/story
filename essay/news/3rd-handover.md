@@ -4,14 +4,14 @@ description: 第三次计划负责人换届交接如期进行。
 
 # 第三次计划负责人换届交接如期进行
 
-[尼安提克中央通讯社](/setting/entity/NIACNA.md)  2019-6-11  
-文：[@CharleYang](/setting/person/CharleYang.md) [@Peterjin0703](/setting/person/Peterjin0703.md)
+[尼安提克中央通讯社](https://wiki.nia.ac.cn/NIACNA)  2019-6-11  
+文：[@CharleYang](https://wiki.nia.ac.cn/CharleYang) [@Peterjin0703](https://wiki.nia.ac.cn/Peterjin0703)
 
 ## 背景
 
-2019年6月5日，泛成电XM研究机构——[尼安提克计划](/setting/entity/NIACN.md)的负责人 @mbkotori 在[清水河](/setting/entity/QSH.md)举行了线上记者会，透露了换届之安排和有关权力和物品之转交事项。随后发表声明，宣布将正式委任探员 @Peterjin0703 作为下一任计划总负责人、首席研究员。
+2019年6月5日，泛成电XM研究机构——[尼安提克计划](https://wiki.nia.ac.cn/NIACN)的负责人 @mbkotori 在[清水河](https://wiki.nia.ac.cn/QSH)举行了线上记者会，透露了换届之安排和有关权力和物品之转交事项。随后发表声明，宣布将正式委任探员 @Peterjin0703 作为下一任计划总负责人、首席研究员。
 
-6月10日，受委任的下任负责人 @Peterjin0703 在回答记者提问时，透露了交接仪式的主要流程，并发表声明：将于11日进行正式的交接仪式，并将决议交由前台组织——[电子科技大学](/setting/entity/UESTC-University.md)予以登记。
+6月10日，受委任的下任负责人 @Peterjin0703 在回答记者提问时，透露了交接仪式的主要流程，并发表声明：将于11日进行正式的交接仪式，并将决议交由前台组织——[电子科技大学](https://wiki.nia.ac.cn/UESTC)予以登记。
 
 ## 权力交接暨JGB约饭仪式
 
@@ -19,17 +19,17 @@ description: 第三次计划负责人换届交接如期进行。
 
 ### 开饭仪式
 
-在交接仪式开始之后，即按照惯例，进行机构钦点场所[JGB](/setting/entity/JGB.md)的开饭仪式——由预先指定的委任探员 @tarcadia 出示菜单，参会者围坐，依次呈报菜名。虽然先前的准备工作尚未充分，仪式依然有条不紊地进行。
+在交接仪式开始之后，即按照惯例，进行机构钦点场所[JGB](https://wiki.nia.ac.cn/JGB.md)的开饭仪式——由预先指定的委任探员 @tarcadia 出示菜单，参会者围坐，依次呈报菜名。虽然先前的准备工作尚未充分，仪式依然有条不紊地进行。
 
 ### 物权转交
 
-在进行了例行的点餐活动后的空隙里，泛成电XM研究机构的首届负责人 @CharleYang 将两袋装有“[传承之器物](/setting/entity/InheritedArtifact.md)”的黄色纸袋进行了转交，同时转交的还有各类的代表性物件——这象征着对中国尼安提克计划的设施、器物的主管权已然正式转交给了计划现任负责人 @Peterjin0703 。
+在进行了例行的点餐活动后的空隙里，泛成电XM研究机构的首届负责人 @CharleYang 将两袋装有“[传承之器物](https://wiki.nia.ac.cn/InheritedArtifact)”的黄色纸袋进行了转交，同时转交的还有各类的代表性物件——这象征着对中国尼安提克计划的设施、器物的主管权已然正式转交给了计划现任负责人 @Peterjin0703 。
 
 ### 招待宴会
 
 清水河的下午六点半左右，开始了本次仪式的招待晚宴，进行了如下几个方面的讨论议程：  
 一：进行了高智慧型图灵完备有机体跨神经网络级通讯协议坎通地区与岱湾地区衍生版切换单机体性能演示，探员@Therodology演示的拟合结果非常好。  
-二：进行了关于本机构未来在XM物质准军事化利用的发展规划，并将[Portal](/setting/entity/Portal.md)“精彩生活”的有效作用半径提高至540km。  
+二：进行了关于本机构未来在XM物质准军事化利用的发展规划，并将[Portal](https://wiki.nia.ac.cn/Portal)“精彩生活”的有效作用半径提高至540km。  
 三：进行了JGB钦定前置菜品的讨论。值得注意的是，讨论至该项议程时，第二任负责人@mbkotori提出了希望在进行JGB约饭时继续维持前置菜品方便面的议案，被新任负责人 @Peterjin0703 驳回。其即刻宣布历史性的决定：从即日起，本机构及其下属机构，在进行JGB约饭时，前置钦定菜品不再为方便面，而为海带。这一伟大的历史性决定是在上述时间的19：07分作出的。
 
 ### 合影仪式
@@ -38,7 +38,7 @@ description: 第三次计划负责人换届交接如期进行。
 
 ### 后续行动
 
-合影仪式结束后，所有探员在本机构前台组织-电子科技大学的留言墙前集合，并由探员@AsTrueAsXiashi，@Therodology庄严地留下了本机构的符号象征，并由第三代计划负责人@Peterjin0703附加上了前台组织-电子科技大学Ingress社的印章，至此正式宣告了本计划进入第三次执行周期。随后探员@tarcadia进行了其第一次潜在的[能量聚集点](/setting/entity/Portal.md)的侦测并成功向Niantic总部申报潜在的能量聚集点。
+合影仪式结束后，所有探员在本机构前台组织-电子科技大学的留言墙前集合，并由探员@AsTrueAsXiashi，@Therodology庄严地留下了本机构的符号象征，并由第三代计划负责人@Peterjin0703附加上了前台组织-电子科技大学Ingress社的印章，至此正式宣告了本计划进入第三次执行周期。随后探员@tarcadia进行了其第一次潜在的[能量聚集点](https://wiki.nia.ac.cn/Portal)的侦测并成功向Niantic总部申报潜在的能量聚集点。
 
 ### 外交移交
 
