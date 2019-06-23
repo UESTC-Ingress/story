@@ -12,11 +12,10 @@
 
 * [新闻](essay/news.md)
 
-  * [第三次计划负责人换届交接如期进行](essay/news/3rd-handover.md)
+  * [第三次计划负责人换届交接如期进行](/essay/news/3rd-handover.md)   
+  * [夏季大三角计划顺利实行](/essay/news/Summer-RES-triangle-project.md)
 
 * [专栏](essay/topic.md)  
- 
-  * [夏季大三角计划顺利实行](/essay/topic/Summer-RES-triangle-project.md)
 
 ## 其他
 
