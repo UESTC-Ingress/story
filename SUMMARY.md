@@ -18,8 +18,8 @@
 
 * [专栏](essay/topic.md)  
  
-  * [成都第五届ifs行动专栏](/essay/topic/Chengdu-ifs-5th.md)   
-    * [成都第五届ifs行动前RES阵营战区侦察报告](/essay/topic/Chengdu-ifs-5th-RES-pre.md)   
+  * [成都第五届ifs行动专栏](/essay/topic/Chengdu-ifs-5th.md)    
+    [成都第五届ifs行动前RES阵营战区侦察报告](/essay/topic/Chengdu-ifs-5th/Chengdu-ifs-5th-RES-pre.md)   
 
 ## 其他
 
