@@ -29,7 +29,7 @@ description: 成都第五届ifs行动前RES阵营战区侦察报告
 [PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)清除了成都东部████、██████、[数据删除]地区的对方能量塔，造成对方控制域的坍缩。并进行反向能量塔连线，为明日的战斗进行准备。    
 [HaleCell](https://wiki.nia.ac.cn/HaleCell)清除了成都南部█、███████████地区的对方能量塔。并转换了███地区的中立能量塔。    
 [CharleYang](https://wiki.nia.ac.cn/CharleYang)全权进行了上述行动的指挥。  
-在进行过简单的休整后，三人对成都南部███商贸中心进行了可靠性排查。排查期间，[PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)、[HaleCell](https://wiki.nia.ac.cn/HaleCell)当即表示要“给[CharleYang](https://wiki.nia.ac.cn/CharleYang)挑选一套合适的作战服”。[CharleYang](https://wiki.nia.ac.cn/CharleYang)对此未作出表态，只是由二人转了114514间商店后，购买了抗电磁波波段大于7700Å，有兴奋性类的精神类喷剂。并在下午修整时对自己的手部与脸部进行喷射处理。    
+在进行过简单的休整后，三人对成都南部███商贸中心进行了可靠性排查。排查期间，[PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)、[HaleCell](https://wiki.nia.ac.cn/HaleCell)当即表示要“给[CharleYang](https://wiki.nia.ac.cn/CharleYang)挑选一套合适的作战服”。[CharleYang](https://wiki.nia.ac.cn/CharleYang)对此未作出表态，只是被二人带着转了114514间商店后，购买了抗电磁波波段大于7700Å，有兴奋性类的精神类喷剂。并在下午修整时对自己的手部与脸部进行喷射处理。    
 在16：30 CST，三人通过传送回到机构本部。此时[PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)的扫描器遭到未经查明的信源入侵，导致其行动能力在2~3分钟内短时间瘫痪。所幸在其扫描器的自修复下其即时恢复正常。    
 同时[PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)注意到自身在上午行动阶段布设的连线亦遭到破坏。但由于此时的三人已经筋疲力尽，三人亦只能回到本部进行休息。   
 
