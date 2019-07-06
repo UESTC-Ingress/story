@@ -1,15 +1,15 @@
 ---
-description: 成都第五届ifs行动#P-H-C-01小队作战报告
+description: 成都第五届ifs行动#RES-P-H-C-01小队作战报告
 ---
 
-# 成都第五届ifs行动#P-H-C-01小队作战报告
+# 成都第五届ifs行动#RES-P-H-C-01小队作战报告
 
 [尼安提克中央通讯社](https://wiki.nia.ac.cn/NIACNA)  2019-7-6    
 文： [@PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)
 
 ## 概要
 
-该文档为公元历2019年7月6日成都地区ifs行动中，生物特征识别码为#P-H-C-01为编号的小队的作战报告。
+该文档为公元历2019年7月6日成都地区ifs行动中，生物特征识别码为#RES-P-H-C-01为编号的小队的作战报告。
 
 ## 背景
 
