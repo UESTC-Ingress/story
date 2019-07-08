@@ -14,7 +14,7 @@ description: 成都第五届ifs行动前RES阵营战区侦察报告
 ## 背景
 
 在本机构前台组织——电子科技大学举行的末期拟合实验时期中，本机构第三次计划负责人[PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)接到了成都地区高层的信息，在其中高层表示了希望在成都地区使用XM力场圈定两个特定区域以举行ifs，并希望本机构能够给予配合，提供特定的物资支持。    
-虽然末期拟合实验极为重要，而且在这个时候分散精力会导致拟合实验结果朝着不可控层面的发展，但[PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)还是硬着头皮接下了这份委托。并和第一代计划负责人[PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)进行了卓有成效的会谈磋商，用详实的数据让机构前台组织进行了拨款，其余款项在探员@Digoooooo的支持下亦成功报备。    
+虽然末期拟合实验极为重要，而且在这个时候分散精力会导致拟合实验结果朝着不可控层面的发展，但[PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)还是硬着头皮接下了这份委托。并和第一代计划负责人[PeterJin0703](https://wiki.nia.ac.cn/Peterjin0703)进行了卓有成效的会谈磋商，用详实的数据让机构前台组织进行了拨款，其余款项在探员[Digoooooo](https://wiki.nia.ac.cn/Peterjin0703)的支持下亦成功报备。    
 
 ## 具体活动   
 ### 2019.7.3        
