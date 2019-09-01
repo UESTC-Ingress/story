@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>https://story.nia.ac.cn/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/news.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/news/3rd-handover.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/news/Summer-RES-triangle-project.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/news/Business-scope-expanded.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/news/recruit-meeting.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/topic.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/topic/Chengdu-ifs-5th.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/topic/Chengdu-ifs-5th/Chengdu-ifs-5th-RES-pre.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/topic/Chengdu-ifs-5th/Chengdu-ifs-5th-squad-report.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/essay/topic/Chengdu-ifs-5th/Chengdu-ifs-5th-squad-report-detailed.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/construct/construct.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://story.nia.ac.cn/construct/templates/essay.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>
